@@ -46,7 +46,7 @@ def refine_image_prompt(story) -> str:
 
 def generate_image_url(image_prompt):
   cover_response = client.images.generate(
-    model = 'gpt-3.5-turbo',
+    model = 'dall-e-2',
     prompt = image_prompt,
     size = "256x256",
     quality = 'standard',
