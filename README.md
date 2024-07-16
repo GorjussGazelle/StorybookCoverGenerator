@@ -16,10 +16,6 @@ To run this project, you will need to add the following environment variables to
 OPENAI_SECRET
 
 
-## Documentation
-
-[Documentation](https://linktodocumentation)
-
 
 ## Features
 
